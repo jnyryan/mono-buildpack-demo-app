@@ -16,4 +16,4 @@ This just prints output to console.
 mono mono-console/build/mono-console.exe
 ```
 
-push
+push 2
