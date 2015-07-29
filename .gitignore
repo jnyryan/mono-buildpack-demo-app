@@ -2,4 +2,5 @@ bin
 obj
 tmp
 build
-starphleet-mono-demo-app.suo
+*.suo
+_compiled/
